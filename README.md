@@ -208,7 +208,7 @@ Bridging traditional DevOps with modern AI infrastructure:
 
 <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
-<a href="mailto:devopsranjan_998877@outlook.com"><img src="https://img.shields.io/badge/Email-devopsranjan__998877%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+<a href="mailto:devopsranjan_998877@outlook.com"><img src="https://img.shields.io/badge/Email-prabhatranjan85%40gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
 &nbsp;&nbsp;
 <a href="https://github.com/prabhat952359"><img src="https://img.shields.io/badge/GitHub-Follow%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
